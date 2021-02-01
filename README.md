@@ -61,3 +61,7 @@ tek-çift.c = Kullanıcının girdiği tam sayı değerinin  tek mi çift mi old
 yaş.c = Kullanıcıdan istenen yaş değerine göre kişinin bebek mi, çocuk mu, genç mi yoksa yetişkin mi olduğunu bulan program.
 
 Z.c = Kullanıcının girdiği x ve y değerini denklemde yerine koyarak sonuç elde eden program.
+
+Student Menagement System.c = Öğrenci yönetim sistemi
+
+
