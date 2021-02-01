@@ -65,3 +65,5 @@ Z.c = Kullanıcının girdiği x ve y değerini denklemde yerine koyarak sonuç 
 Student Menagement System.c = Öğrenci yönetim sistemi
 
 Sort Algoritmaları programı.c = Rasgele alınan 10 sayının Bubble Sort, Selection Sort, Insertion Sort ve Shell Sort algoritmaları kullanılarak bu sayıları sırasıyla küçükten büyüğe ve büyükten küçüğe doğru sıralayan program.
+
+Book Price Sorter.c = Kitap fiyatlarını sıralayan program.
