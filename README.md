@@ -68,4 +68,4 @@ Sort Algoritmaları programı.c = Rasgele alınan 10 sayının Bubble Sort, Sele
 
 book price sorter.c = Kitap fiyatlarını sıralayan program.
 
-1.dönem gano BM.c = gano hesaplayan program.
+birinci dönem gano BM.c = gano hesaplayan program.
